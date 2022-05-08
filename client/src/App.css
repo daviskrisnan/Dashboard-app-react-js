@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+/* font-family: 'Mochiy Pop One', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap');
+/* font-family: 'Sniglet', cursive; */
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Sniglet', cursive;
+}
+
+.font-logo {
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.home-icons {
+  font-size: 30px;
+  color: cornflowerblue;
+}
+
+.home-title {
+  font-weight: bold;
+}
